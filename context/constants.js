@@ -6,7 +6,7 @@ import FileSharingDApp from "./FileSharingDApp.json";
 
 //FILESHARING
 export const FILE_SHARING_ADDRESS =
-  "0xb7060855e6283F2c57d5869074CBabC7A9b81189";
+  process.env.NEXT_PUBLIC_FILE_SHARING_ADDRESS;
 const FILE_SHARING_ABI = FileSharingDApp.abi;
 
 const fetchContract = (signer, ABI, ADDRESS) =>

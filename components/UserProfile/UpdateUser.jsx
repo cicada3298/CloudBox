@@ -74,9 +74,8 @@ const Updateuser = ({
           data: formData,
           maxBodyLength: "Infinity",
           headers: {
-            pinata_api_key: `f6bcd431e4daf16c2ff5`,
-            pinata_secret_api_key: `
-            3eda1c3aa1ed2117698ed3c053efc53c063f6505a32093a7543458d81bf45b3c`,
+            pinata_api_key: process.env.NEXT_PUBLIC_PINATA_API_KEY,
+            pinata_secret_api_key: process.env.NEXT_PUBLIC_PINATA_SECRET,
             "Content-Type": "multipart/form-data",
           },
         });
