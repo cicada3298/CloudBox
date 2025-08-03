@@ -191,12 +191,6 @@ const Home = ({
                       publice files, We are looking for your feedback to our
                       dapp
                     </p>
-                    <a>
-                      Try Now
-                      <i class="las  ml-2">
-                        <IoIosArrowRoundForward />
-                      </i>
-                    </a>
                   </div>
                 </div>
               </div>
