@@ -4,19 +4,13 @@
 
 ## **📚 Table of Contents**
 
-- [**🚀 Live Deployments**](#live-deployments)
 - [**✨ Features**](#features)
 - [**⚙️ Technologies**](#technologies)
 - [**🖼️ User Interface**](#user-interface)
 - [**🛠️ Getting Started**](#getting-started)
 - [**👨‍💻 Author**](#author)
 
-<h2 id="live-deployments">🚀 Live Deployments</h2>
 
-We have deployed the entire app on **Vercel** and **Remix**. You can access the live app **[here](https://cloud-box-six.vercel.app/)**.
-
-- **Frontend**: Deployed on **Vercel**. Access the live frontend **[here](https://cloud-box-six.vercel.app/)**.
-  - **Smart Contract**: Deployed on **Remix-IDE**. Check out Remix here **[here](https://remix-project.org/)**.
 
 <h2 id="features">✨ Features</h2>
 
